@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Barkeep</string>
+    <string name="title_cocktail_list">Cocktails</string>
+    <string name="title_cocktail_detail">Cocktail Detail</string>
 </resources>

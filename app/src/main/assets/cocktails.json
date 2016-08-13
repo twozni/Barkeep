@@ -1,0 +1,121 @@
+[
+  {
+    "drink_name": "Old Fashioned",
+    "main_ingredient": "Whiskey",
+    "ingredients": [
+      "2 oz bourbon whiskey",
+      "2 dashes of angostura bitters",
+      "1 tsp sugar or simple syrup",
+      "1 orange peel"
+    ],
+    "directions": [
+      "Add sugar or simple syrup to old-fashioned glass",
+      "Add in angostura bitters",
+      "Pour in whiskey",
+      "Fill glass with a few ice cubes and stir",
+      "Twist orange peel above glass, rub orange peel around brim, and drop peel into the cocktail",
+      "Serve"
+    ]
+  },
+  {
+    "drink_name": "Screwdriver",
+    "main_ingredient": "Vodka",
+    "ingredients": [
+      "1.5 oz vodka",
+      "6 oz orange juice"
+    ],
+    "directions": [
+      "Fill large glass with ice",
+      "Pour vodka and orange juice into glass",
+      "Stir and serve"
+    ]
+  },
+  {
+    "drink_name": "Whiskey Sour",
+    "main_ingredient": "Whiskey",
+    "ingredients": [
+      "1.5 oz whiskey",
+      "4 oz sour mix",
+      "1 maraschino cherry"
+    ],
+    "directions": [
+      "Fill large old-fashioned glass with ice",
+      "Pour in whiskey and sour mix into glass",
+      "Stir, garnish with cherry, and serve"
+    ]
+  },
+  {
+    "drink_name": "Cosmopolitan",
+    "main_ingredient": "Vodka",
+    "ingredients": [
+      "1.5 oz vodka",
+      "0.5 oz cointreau",
+      "1.5 oz cranberry juice",
+      "1 lime twist"
+    ],
+    "directions": [
+      "Fill shaker with ice",
+      "Add in all ingredients",
+      "Shake vigorously for 10 seconds",
+      "Garnish with lime twist and serve"
+    ]
+  },
+  {
+    "drink_name": "Moscow Mule",
+    "main_ingredient": "Vodka",
+    "ingredients": [
+      "1.5 oz vodka",
+      "0.5 oz lime juice",
+      "0.5 cup ginger beer",
+      "1 lime wedge"
+    ],
+    "directions": [
+      "Add ice to moscow mule mug",
+      "Pour vodka and lime juice into mug",
+      "Pour in ginger beer and stir",
+      "Drop in lime wedge and serve"
+    ]
+  },
+  {
+    "drink_name": "Bloody Mary",
+    "main_ingredient": "Vodka",
+    "ingredients": [
+      "2 oz vodka",
+      "4 oz tomato juice",
+      "1 lemon wedge",
+      "1 lime wedge",
+      "2 tbsp celery salt",
+      "2 dashes tabasco sauce",
+      "2 tsp prepared horseradish",
+      "2 dashes worcestershire sauce",
+      "1 pinch celery salt",
+      "1 pinch ground black pepper",
+      "1 pinch smoked paprika"
+    ],
+    "directions": [
+      "Pour celery salt onto plate",
+      "Rub lemon or lime around brim of pint glass",
+      "Roll brim of glass in celery salt until brim is fully coated",
+      "Fill glass with ice",
+      "Squeeze lemon and lime wedges into shaker and drop them in",
+      "Add in remaining ingredients into shaker",
+      "Shake for 10 seconds and pour into glass",
+      "Garnish with a celery stalk and a lime wedge",
+      "Serve"
+    ]
+  },
+  {
+    "drink_name": "Margarita",
+    "main_ingredient": "Tequila",
+    "ingredients": [
+      "0.75 oz freshly squeezed lime juice",
+      "1 oz cointreau, triple sec, or other orange liqueur",
+      "1.5 oz blanco tequila"
+    ],
+    "directions": [
+      "Fill shaker with ice and add in all ingredients",
+      "Shake well for 10 seconds and strain into cocktail glass",
+      "Garnish with a lime wheel and serve"
+    ]
+  }
+]
